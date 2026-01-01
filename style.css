@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #0f0f3d, #1a1a5e);
+    color: #FFD700;
+    font-family: 'Arial Black', sans-serif;
+    overflow-x: hidden;
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+    margin-top: 50px;
+    text-shadow: 2px 2px 8px #fff;
+}
+p {
+    font-size: 1.5em;
+}
+#countdown {
+    font-size: 2em;
+    margin-top: 20px;
+    text-shadow: 1px 1px 6px #fff;
+}
+img {
+    width: 200px;
+    margin-top: 20px;
+}
